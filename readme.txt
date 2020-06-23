@@ -1,7 +1,3 @@
-Group No: 11
-Student 1: Afsheen Hatami, 1561557
-Student 2: Charles Grealy, 0933824
-
 Compile Command: "g++ -std=c++11 listexpression.cpp HW4.cpp -o listexpression"
 Run Command: "./listexpression file=tc1.py"
 
